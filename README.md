@@ -1,5 +1,6 @@
 # Crowdfunding_ETL
 Names: Finn Arffmann, Parisha Gupta, Sanem Gingery, John McNamara, and Jackson Whited
+
 Class: Northwestern Data Bootcamp
 Date: 7/23/2024
 
