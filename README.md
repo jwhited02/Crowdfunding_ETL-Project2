@@ -1,2 +1,2 @@
-# Crowdfunding_ETL-Project2
-This is my submission for Project 2: Crowdfunding_ETL
+# Crowdfunding_ETL
+ETL pipeline for crowdfunding data: Extract, Transform, Load process with Python and Postgres.
